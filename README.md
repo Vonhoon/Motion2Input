@@ -2,6 +2,4 @@
 Motion2Input test
 
 # Dependancies
-Tensorflow (2.x)
-OpenCV
-webcam
+Tensorflow (2.x), OpenCV, a webcam
